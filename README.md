@@ -1,3 +1,5 @@
+
+<h4><a href="瘦身AppDelegate文件/reduce.md">appDelegate瘦身</a>
 ##PYDescription
 如何维护自身的pod库（仿造cocoapods）
 
